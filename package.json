@@ -5,5 +5,24 @@
     "express": "^4.17.1",
     "morgan": "^1.10.0",
     "socket.io": "^4.0.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "chat",
+  "description": "Apenas para questões de estudo e treinamento",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrodev63/chat-real-time-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrodev63/chat-real-time-basic/issues"
+  },
+  "homepage": "https://github.com/pedrodev63/chat-real-time-basic#readme"
 }
