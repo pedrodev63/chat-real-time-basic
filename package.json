@@ -7,7 +7,7 @@
     "socket.io": "^4.0.1"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server"
   },
   "name": "chat",
   "description": "Apenas para questões de estudo e treinamento",
